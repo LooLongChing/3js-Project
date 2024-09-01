@@ -1,5 +1,9 @@
 # My Experience
-
+Basic Movement in three.js
+> position
+> rotation
+> scale
+> group 
 
 # Three.js Journey
 
