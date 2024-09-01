@@ -1,16 +1,3 @@
-# Three.js Journey
-
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+Be careful about DeltaTime and Clock. This is different.</ br>
+Make sure to define tick(). This is used to render every frame.
+This project is installed gsap@3.5.1 (not the latest version)
