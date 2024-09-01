@@ -1,0 +1,1 @@
+Learn about basic fullscreen and resizing.
