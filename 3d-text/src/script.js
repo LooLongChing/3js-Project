@@ -72,7 +72,7 @@ fontLoader.load(
             donut.rotation.x = Math.random() * Math.PI
             donut.rotation.y = Math.random() * Math.PI
 
-            const scale = Math.random()
+            const scale = Math.random() - 0.3
             donut.scale.set(scale, scale, scale)
 
             scene.add(donut)
